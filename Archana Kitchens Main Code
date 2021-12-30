@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  background-color: Orange;
+}
+
+
+table, th, td {
+  border:1px solid black;
+}
+
+</style>
+<title>Archana Kitchens North Indian Restaurant</title>
+</head>
+
+<body>
+
+<h1>Archana Kitchens North Indian Restauraunt</h1>
+<p><a href="https://archanakitchens.w3spaces.com">Home</a>&nbsp;&nbsp;<a href="https://archanakitchens.w3spaces.com/Menu.html?bypass-cache=89840410">Menu</a></p>
+
+<h2>The People Who Took The Food</h2>
+
+<ul>
+  <li>Name: Sachin Idly Samber $</li>
+  <li>Name: Arnika Idly Samber $</li>
+  <li>Name: Arnav Idly Samber $</li>
+  <li>Name: Archana Idly Samber $</li>
+  <li>Total: $ </li>
+  <li>Tax: $ </li>
+  <li>Grand Total: $ </li>
+</ul>  
+<h3>About Us</h3>
+<h4>Founded in 2021, Archana Kitchens North Indian Restauraunt is known for revolutionizing the way people eat and enjoy food.<br>
+  We take pride in our ability to discover the most unique flavors from around the world and share them with the USA area. 
+  Join us.</h4>
+
+  <h3>Contact Us</h3>
+  <h4>7362 S Havana St Englewood CO 80112<br>
+  arnavjain711@gmail.com<br>
+  8022220011</h4>
+</body>
+</html>
